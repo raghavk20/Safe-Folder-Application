@@ -18,7 +18,7 @@ The discussion starts by highlighting the importance of information security and
 (vi)	Performance: The system should provide fast and responsive access to data. This can be achieved through efficient data storage and retrieval mechanisms <br>
 (vii)	Usability: The system should be easy to use and manage. This can be achieved through user-friendly interfaces and administrative tools <br>
 
-# Methodology 
+# Procedure 
 
 (i) Use of black box design approach for secured data storage and analysis using blockchain would provide a user-friendly and secure solution for the storage and analysis of sensitive data, without requiring users to have any knowledge or understanding of the internal workings of the system <br>
 (ii) The low level design specifies the the storage infrastructure and the tools to be used. It address the security and privacy concerns like the implementation of appropriate encryption and access control mechanisms and the design of a secure communication protocol
