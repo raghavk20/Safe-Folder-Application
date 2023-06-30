@@ -10,7 +10,7 @@ The discussion starts by highlighting the importance of information security and
 
 # Features of our project
 
-(i)	Confidentiality: The data should be kept confidential and protected from unauthorized access or disclosure. This can be achieved through encryption and access control mechanisms
+(i)	Confidentiality: The data should be kept confidential and protected from unauthorized access or disclosure. This can be achieved through encryption and access control mechanism <br>
 (ii)	Integrity: The data should be protected from unauthorized modification or tampering. This can be achieved through data integrity checks and digital signatures
 (iii)	Availability: The data should be available to authorized users when needed. This can be achieved through redundancy and fault-tolerant mechanisms
 (iv)	Accuracy: The data should be accurate and reliable. This can be achieved through data validation and verification mechanisms
